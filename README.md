@@ -3,17 +3,20 @@ You stumbled on the github of a small jackal in a trenchcoat posing as a human a
 
 
 
-## Current Interests 🤔
-What you'll be likely to find committed to this github at some point in time. 
+## Focus 🤔
+Contributions to this profile are entirely my own, however they reflect personal hobbies as well as professional interests. 
 
-Anything related to:
+I have a number of irons in the fire at any given time. Here you're likely to find anything related to:
 
 - Fintech and fintech accessories.
 - Cloud adoption and cloud native architectures.
 - Homelabbing all the things.
 - Embedded development.
 - Mainframes (yes, really).
-- Retro computing. 
+- Retro computing.
+
+
+
 
 
 
