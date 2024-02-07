@@ -1,4 +1,22 @@
-### Hi there 👋
+## Welcome 👋
+You stumbled on the github of a small jackal in a trenchcoat posing as a human adult. Sometimes known as Paul. 
+
+
+
+## Current Interests 🤔
+What you'll be likely to find committed to this github at some point in time. 
+
+Anything related to:
+
+- Fintech and fintech accessories.
+- Cloud adoption and cloud native architectures.
+- Homelabbing all the things.
+- Embedded development.
+- Mainframes (yes really)
+
+
+
+
 
 <!--
 **littlejackal/littlejackal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
