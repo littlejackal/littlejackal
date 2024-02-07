@@ -12,8 +12,8 @@ Anything related to:
 - Cloud adoption and cloud native architectures.
 - Homelabbing all the things.
 - Embedded development.
-- Mainframes (yes really)
-
+- Mainframes (yes, really).
+- Retro computing. 
 
 
 
